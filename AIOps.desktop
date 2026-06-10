@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AIOps Desktop Agent
+Comment=Smart Linux performance monitoring and AI diagnostics
+Exec=AIOps-Agent
+Icon=utilities-system-monitor
+Terminal=false
+Categories=System;Monitor;Utility;
