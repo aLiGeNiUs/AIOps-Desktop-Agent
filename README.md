@@ -4,7 +4,7 @@
 
 تطبيق سطح مكتب ذكي لمراقبة أداء نظام Linux بشكل لحظي، مدعوم بالذكاء الاصطناعي (Ollama/Gemini) لتشخيص المشاكل واقتراح الحلول الآمنة.
 
-![AIOps Desktop Agent](https://via.placeholder.com/1000x700.png?text=AIOps+Desktop+Agent+Screenshot)
+![AIOps Desktop Agent]
 
 ## الميزات الرئيسية (Features)
 - 📊 **مراقبة لحظية (Real-time Monitoring):** رسم بياني فائق السرعة لاستهلاك الذاكرة والمعالج عبر نواة لينكس مباشرة (`/proc`).
